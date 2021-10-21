@@ -135,12 +135,12 @@ Jeder Channel, welcher auf media.ccc.de Inhalte veröffentlicht, kann die hierzu
 Hierbei gilt der gleiche Schlüssel wie auf den Congressen. Für die A/V Produktion wird die  Talk-Länge als Referenz hergenommen, für den Auf- und Abbau der Bühnen, die Auswahl des Contents, etc. die tatsächlich angefallene Zeit.  Ausgehend von den zeitlichen Aufwänden für die Gesamtproduktion rechnen wir damit, dass zwölf Engel pro Channel (und pro Produktionsstandort) wahrscheinlich die 60 Stunden-Marke reißen werden.
 
 ## Termine
-Die Mumble-Runden starten jeweils ab 20:00 Uhr) auf mng.c3voc.de in Lounge
+Die Mumble-Runden starten jeweils ab 20:00 Uhr auf mng.c3voc.de in Lounge
 
-  * 26. Oktober 2021 - KickOff für Channels (Wer ist dabei, wie machen wir es)
-  * 4. November 2021 - Channel-SyncUP: CfP Ergebnisse
-  * 12. November 2021 - Meta-Content-Runde für Channels
-  * 16. November 2021 - Austausch zu technischen Themen bei Channels
-  * 24. November 2021 - Meta-Content-Runde für Channels
-  * 3. Dezember 2021 - Austausch zu technischen Themen bei Channels
-  * 16. Dezember 2021 - Final Meeting für Channels
+  * 2021-10-26 - KickOff für Channels (Wer ist dabei, wie machen wir es)
+  * 2021-11-04 - Channel-SyncUP: CfP Ergebnisse
+  * 2021-11-12 - Meta-Content-Runde für Channels
+  * 2021-11-16 - Austausch zu technischen Themen bei Channels
+  * 2021-11-24 - Meta-Content-Runde für Channels
+  * 2021-12-03 - Austausch zu technischen Themen bei Channels
+  * 2021-12-16 - Final Meeting für Channels
